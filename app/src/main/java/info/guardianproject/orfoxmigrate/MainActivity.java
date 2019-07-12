@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void goToFdroid(View view) {
         final Intent intent = new Intent(Intent.ACTION_VIEW);
-        intent.setData(Uri.parse(FDROID_APP_URI + TBA_PACKAGE));
+        intent.setData(Uri.parse(FDROID_REPO_URL));
         startActivity(intent);
     }
 
@@ -70,8 +70,8 @@ public class MainActivity extends AppCompatActivity {
         return intent;
     }
 
-    final static String TBA_PACKAGE = "org.torproject.android.browser";
-    final static String TBA_DOWNLOAD_URL = "https://torproject.org/download/tba.apk";
+    final static String TBA_PACKAGE = "org.torproject.torbrowser";
+    final static String TBA_DOWNLOAD_URL = "https://www.torproject.org/download/#android";
 
     final static String MARKET_URI = "market://details?id=";
     final static String FDROID_APP_URI = "https://f-droid.org/repository/browse/?fdid=";
@@ -81,5 +81,7 @@ public class MainActivity extends AppCompatActivity {
 
     private final static String FDROID_PACKAGE_NAME = "org.fdroid.fdroid";
     private final static String PLAY_PACKAGE_NAME = "com.android.vending";
+
+    private final static String FDROID_REPO_URL = "https://guardianproject.info/fdroid/";
 
 }
