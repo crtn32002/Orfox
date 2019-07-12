@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/colorPrimary"
+
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+
+    >
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/tbaicon"
+        android:layout_margin="50dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/try_tor_browser"
+        android:textColor="@color/colorAccent"
+        android:textSize="48dp"
+        android:gravity="center_horizontal"
+        android:fontFamily="sans-serif-light"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/orfox_is_now_tor_browser"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_it"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"
+        android:gravity="center_horizontal"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginTop="10dp"
+        />
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg"
+        android:gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"
+        >
+    <Button
+
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:text="GO TO F-DROID"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="30dp"
+        android:onClick="goToFdroid"
+        />
+
+
+    <Button
+
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:text="GO TO GOOGLE PLAY"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="10dp"
+        android:onClick="goToGooglePlay"
+    />
+
+
+    <Button
+
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:text="DOWNLOAD .APK"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:layout_marginTop="10dp"
+        android:onClick="goToApk"
+    />
+    </LinearLayout>
+
+</RelativeLayout>

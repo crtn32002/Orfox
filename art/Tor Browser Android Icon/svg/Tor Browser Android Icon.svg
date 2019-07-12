@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="99px" viewBox="0 0 99 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>C3EE4E09-26D6-4851-A4E8-E99641328987</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#420C5D" offset="0%"></stop>
+            <stop stop-color="#951AD1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-2">
+            <stop stop-color="#D1A2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-3">
+            <stop stop-color="#D1A2FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3.93700787,3.78698225 C24.0279964,3.78698225 40.3149606,20.0354253 40.3149606,40.0788955 C40.3149606,60.1223657 24.0279964,76.3708087 3.93700787,76.3708087 L3.93700787,3.78698225 Z" id="path-4"></path>
+        <filter x="-90.7%" y="-34.4%" width="237.4%" height="168.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-8" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.258823529   0 0 0 0 0.0470588235   0 0 0 0 0.364705882  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Orfox-&gt;-TBA" transform="translate(-131.000000, -79.000000)">
+            <g id="Tor-Browser-Android-Icon" transform="translate(127.000000, 74.000000)">
+                <rect id="Container" fill="url(#linearGradient-1)" fill-rule="nonzero" x="-5" y="-4.33333333" width="117" height="117"></rect>
+                <g id="tb_icon/Light" transform="translate(13.000000, 14.666667)">
+                    <g id="Light">
+                        <path d="M39.9939905,79.8463244 C17.9059194,79.8463244 2.06057393e-13,61.9721159 2.06057393e-13,39.9231622 C2.06057393e-13,17.8742086 17.9059194,1.56319402e-13 39.9939905,1.56319402e-13 C62.0820615,1.56319402e-13 79.9879809,17.8742086 79.9879809,39.9231622 C79.9879809,61.9721159 62.0820615,79.8463244 39.9939905,79.8463244 Z M39.9939905,72.5875677 C58.0660486,72.5875677 72.7163463,57.9632152 72.7163463,39.9231622 C72.7163463,21.8831092 58.0660486,7.25875677 39.9939905,7.25875677 C21.9219324,7.25875677 7.27163463,21.8831092 7.27163463,39.9231622 C7.27163463,57.9632152 21.9219324,72.5875677 39.9939905,72.5875677 Z M39.9939905,67.7483965 C24.5992743,67.7483965 12.119391,55.2906148 12.119391,39.9231622 C12.119391,24.5557097 24.5992743,12.0979279 39.9939905,12.0979279 C55.3887066,12.0979279 67.8685899,24.5557097 67.8685899,39.9231622 C67.8685899,55.2906148 55.3887066,67.7483965 39.9939905,67.7483965 Z M39.9939905,60.4896397 C51.3726937,60.4896397 60.5969552,51.2817141 60.5969552,39.9231622 C60.5969552,28.5646103 51.3726937,19.3566847 39.9939905,19.3566847 C28.6152872,19.3566847 19.3910257,28.5646103 19.3910257,39.9231622 C19.3910257,51.2817141 28.6152872,60.4896397 39.9939905,60.4896397 Z M39.9939905,55.6504685 C31.2926291,55.6504685 24.2387821,48.6091136 24.2387821,39.9231622 C24.2387821,31.2372108 31.2926291,24.1958559 39.9939905,24.1958559 C48.6953518,24.1958559 55.7491988,31.2372108 55.7491988,39.9231622 C55.7491988,48.6091136 48.6953518,55.6504685 39.9939905,55.6504685 Z M39.9939905,48.3917118 C44.6793389,48.3917118 48.4775642,44.600213 48.4775642,39.9231622 C48.4775642,35.2461114 44.6793389,31.4546126 39.9939905,31.4546126 C35.3086421,31.4546126 31.5104167,35.2461114 31.5104167,39.9231622 C31.5104167,44.600213 35.3086421,48.3917118 39.9939905,48.3917118 Z" id="center" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                        <g id="half" transform="translate(22.125984, 40.078895) scale(-1, 1) translate(-22.125984, -40.078895) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
