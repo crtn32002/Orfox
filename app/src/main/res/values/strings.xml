@@ -3,4 +3,7 @@
     <string name="try_tor_browser">Try Tor Browser</string>
     <string name="orfox_is_now_tor_browser">Orfox is now Tor Browser for Android.</string>
     <string name="get_it">Get it from your preferred source:</string>
+    <string name="go_to_f_droid">GO TO F-DROID</string>
+    <string name="go_to_google_play">GO TO GOOGLE PLAY</string>
+    <string name="download_apk">DOWNLOAD .APK</string>
 </resources>
