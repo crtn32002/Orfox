@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Orfox er ekki lengur til</string>
+    <string name="try_tor_browser">Prófaðu Tor-vafrann</string>
+    <string name="orfox_is_now_tor_browser">Orfox er núna Tor-vafrinn fyrir Android.</string>
+    <string name="get_it">Náðu í hann frá þeim sem þú treystir:</string>
+    <string name="go_to_f_droid">FARA Á F-DROID</string>
+    <string name="go_to_google_play">FARA Á GOOGLE PLAY</string>
+    <string name="download_apk">SÆKJA .APK</string>
+</resources>

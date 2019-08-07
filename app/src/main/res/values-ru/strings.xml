@@ -1,0 +1,8 @@
+<resources>
+    <string name="try_tor_browser">Попробуйте Tor Browser</string>
+    <string name="orfox_is_now_tor_browser">Orfox теперь Tor Browser для Android.</string>
+    <string name="get_it">Загрузите его из предпочитаемого источника:</string>
+    <string name="go_to_f_droid">ОТКРЫТЬ F-DROID</string>
+    <string name="go_to_google_play">ОТКРЫТЬ GOOGLE PLAY</string>
+    <string name="download_apk">ЗАГРУЗИТЬ .APK</string>
+</resources>

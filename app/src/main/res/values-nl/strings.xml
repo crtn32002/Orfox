@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">Probeer de Tor-browser</string>
+    <string name="orfox_is_now_tor_browser">Orfox staat nu bekend als Tor-browser voor Android.</string>
+    <string name="get_it">Haal het op een van volgende manieren op:</string>
+    <string name="go_to_f_droid">OPEN F-DROID</string>
+    <string name="go_to_google_play">OPEN GOOGLE PLAY</string>
+    <string name="download_apk">DOWNLOAD DE .APK</string>
+</resources>

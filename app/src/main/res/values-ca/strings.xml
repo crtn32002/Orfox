@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">Proveu el navegador Tor</string>
+    <string name="orfox_is_now_tor_browser">L\'Orfox ara és el Navegador Tor per a Android</string>
+    <string name="get_it">Baixeu-lo del vostre repositori preferit:</string>
+    <string name="go_to_f_droid">VÉS A F-DROID</string>
+    <string name="go_to_google_play">VÉS A GOOGLE PLAY</string>
+    <string name="download_apk">BAIXA L\'APK</string>
+</resources>

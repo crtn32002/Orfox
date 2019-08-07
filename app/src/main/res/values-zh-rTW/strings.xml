@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">試試洋蔥路由瀏覽器</string>
+    <string name="orfox_is_now_tor_browser">Orfox 現在是用於 Android 的洋蔥路由瀏覽器。</string>
+    <string name="get_it">從您偏好的來源來獲取：</string>
+    <string name="go_to_f_droid">前往 F-DROID</string>
+    <string name="go_to_google_play">前往 GOOGLE PLAY</string>
+    <string name="download_apk">下載 .APK</string>
+</resources>

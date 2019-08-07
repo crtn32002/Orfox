@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">Vyzkoušejte prohlížeč Tor</string>
+    <string name="orfox_is_now_tor_browser">Orfox se mění na prohlížeč Tor pro Android.</string>
+    <string name="get_it">Získejte ho dle svého výběru z:</string>
+    <string name="go_to_f_droid">Otevřít F-Droid</string>
+    <string name="go_to_google_play">Otevřít Google Play</string>
+    <string name="download_apk">Stáhnout .APK</string>
+</resources>

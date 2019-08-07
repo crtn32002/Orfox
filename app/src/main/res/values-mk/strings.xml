@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">Пробајте го Tor Browser</string>
+    <string name="orfox_is_now_tor_browser">Orfox е сега Tor Browser за Android.</string>
+    <string name="get_it">Преземете од вашиот префериран извор:</string>
+    <string name="go_to_f_droid">Оди на F-DROID</string>
+    <string name="go_to_google_play">Оди на GOOGLE PLAY</string>
+    <string name="download_apk">ПРЕЗЕМИ .APK</string>
+</resources>

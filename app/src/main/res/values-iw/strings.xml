@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">נסה את דפדפן Tor</string>
+    <string name="orfox_is_now_tor_browser">Orfox הוא כעת דפדפן Tor עבור Android</string>
+    <string name="get_it">השג אותו מהמקור המועדף עליך:</string>
+    <string name="go_to_f_droid">לך אל F-DROID</string>
+    <string name="go_to_google_play">לך אל GOOGLE PLAY</string>
+    <string name="download_apk">הורד APK.</string>
+</resources>

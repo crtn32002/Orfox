@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">Išbandykite Tor Browser</string>
+    <string name="orfox_is_now_tor_browser">Dabar, Orfox yra Tor Browser naršyklė, skirta Android.</string>
+    <string name="get_it">Gaukite iš pageidaujamo šaltinio:</string>
+    <string name="go_to_f_droid">PEREITI Į F-DROID</string>
+    <string name="go_to_google_play">PEREITI Į GOOGLE PLAY</string>
+    <string name="download_apk">ATSISIŲSTI .APK</string>
+</resources>

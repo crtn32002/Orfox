@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">Próbálja ki a Tor böngészőt</string>
+    <string name="orfox_is_now_tor_browser">Az Orfox már Tor Browser az Android-ra.</string>
+    <string name="get_it">Szerezze be a preferált forrásból:</string>
+    <string name="go_to_f_droid">IRÁNY AZ F-DROID</string>
+    <string name="go_to_google_play">IRÁNY A GOOGLE PLAY</string>
+    <string name="download_apk">AZ .APK LETÖLTÉSE</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="try_tor_browser">Prova Tor Browser</string>
+    <string name="orfox_is_now_tor_browser">Orfox è ora Tor Browser per Android.</string>
+    <string name="get_it">Ottienilo dalla tua fonte preferita:</string>
+    <string name="go_to_f_droid">VAI A F-DROID</string>
+    <string name="go_to_google_play">VAI A GOOGLE PLAY</string>
+    <string name="download_apk">SCARICA .APK</string>
+</resources>

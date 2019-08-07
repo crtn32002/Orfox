@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OrfoxRIP</string>
+    <string name="try_tor_browser">试试 Tor 浏览器</string>
+    <string name="orfox_is_now_tor_browser">Orfox 现在是为安卓提供的 Tor 浏览器。</string>
+    <string name="get_it">从您喜欢的来源来获取该应用：</string>
+    <string name="go_to_f_droid">前往 F-Droid</string>
+    <string name="go_to_google_play">前往 Google Play</string>
+    <string name="download_apk">下载 .apk 安装包</string>
+</resources>

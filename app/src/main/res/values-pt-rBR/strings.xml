@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Descanse em paz, Orfox</string>
+    <string name="try_tor_browser">Experimente o Navegador Tor</string>
+    <string name="orfox_is_now_tor_browser">Orfox passou a ser Navegador Tor para Android</string>
+    <string name="get_it">Obter na fonte que você preferir:</string>
+    <string name="go_to_f_droid">IR PARA O F-DROID</string>
+    <string name="go_to_google_play">IR PARA GOOGLE PLAY</string>
+    <string name="download_apk">FAZER DOWNLOAD DE .APK</string>
+</resources>
