@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
     final static String TBA_DOWNLOAD_URL = "https://www.torproject.org/download/#android";
 
     final static String MARKET_URI = "market://details?id=";
-    final static String FDROID_APP_URI = "https://f-droid.org/repository/browse/?fdid=";
+    final static String FDROID_APP_URI = "https://guardianproject.info/fdroid";//https://f-droid.org/repository/browse/?fdid=";
     final static String PLAY_APP_URI = "https://play.google.com/store/apps/details?id=";
     final static String FDROID_URI = "https://f-droid.org/repository/browse/?fdfilter=info.guardianproject";
     final static String PLAY_URI = "https://play.google.com/store/apps/developer?id=The+Guardian+Project";
