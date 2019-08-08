@@ -65,18 +65,6 @@
         android:layout_alignParentBottom="true"
         android:padding="10dp"
         >
-    <Button
-
-        android:layout_width="300dp"
-        android:layout_height="70dp"
-        android:text="@string/go_to_f_droid"
-        android:textColor="@color/colorPrimaryDark"
-        android:textSize="20dp"
-        android:gravity="center"
-        android:fontFamily="sans-serif"
-        android:layout_marginTop="30dp"
-        android:onClick="goToFdroid"
-        />
 
 
     <Button
@@ -105,6 +93,20 @@
         android:layout_marginTop="10dp"
         android:onClick="goToApk"
     />
+
+        <Button
+
+            android:layout_width="300dp"
+            android:layout_height="70dp"
+            android:text="@string/go_to_f_droid"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="20dp"
+            android:gravity="center"
+            android:fontFamily="sans-serif"
+            android:layout_marginTop="10dp"
+            android:onClick="goToFdroid"
+            />
+
     </LinearLayout>
 
 </RelativeLayout>
