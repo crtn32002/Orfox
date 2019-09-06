@@ -9,8 +9,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
+import android.widget.Toast;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import info.guardianproject.orfox.R;
@@ -42,6 +47,59 @@ public class MainActivity extends AppCompatActivity {
         final Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.setData(Uri.parse(TBA_DOWNLOAD_URL));
         startActivity(intent);
+    }
+
+    public void exportBookmarks (View view) {
+        exportBookmarks();
+    }
+
+    public void exportBookmarks () {
+
+        ArrayList<String> bookmarks = FirefoxBookmarkExporter.getBookmarks(this);
+
+        if (bookmarks.size() > 0) {
+            StringBuffer sb = new StringBuffer();
+            for (String bmrk : bookmarks)
+                sb.append(bmrk).append("\n");
+
+            Intent data = new Intent();
+            data.setAction(Intent.ACTION_SEND);
+            data.setType("text/plain");
+            data.putExtra(Intent.EXTRA_TEXT, sb.toString());
+            startActivity(data);
+
+            Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
+            sharingIntent.setType("text/plain");
+            sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, sb.toString());
+            startActivity(Intent.createChooser(sharingIntent, "Share Bookmarks"));
+        }
+        else
+        {
+            Toast.makeText(this,"No bookmarks found",Toast.LENGTH_LONG).show();
+        }
+
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        super.onCreateOptionsMenu(menu);
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.app_main, menu);
+        return true;
+    }
+
+
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+
+        if (item.getItemId() == R.id.menu_export) {
+
+            exportBookmarks();
+        }
+
+
+        return super.onOptionsItemSelected(item);
     }
 
 

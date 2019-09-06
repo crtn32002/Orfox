@@ -107,6 +107,15 @@
             android:onClick="goToFdroid"
             />
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="export orfox bookmarks"
+            android:textColor="@color/colorAccent"
+            android:layout_marginTop="10dp"
+            android:onClick="exportBookmarks"
+
+            ></TextView>
     </LinearLayout>
 
 </RelativeLayout>
